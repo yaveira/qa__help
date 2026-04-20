@@ -1,4 +1,4 @@
-urllib3==1.26.5
+urllib3==2.6.3
 urljoin==1.0.0
 requests==2.20.0
 behave==1.2.6
